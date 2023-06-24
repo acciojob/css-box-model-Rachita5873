@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:#02ADBB;
+	border: 15px solid slateblue;
+	margin: 20px white;
+	width: 300px;
+	padding: 50px;
+	outline-style:solid;
+	outline-color:black;
+}
+#para{
+	outline-style:dashed;
+	outline-color:black;
+}
